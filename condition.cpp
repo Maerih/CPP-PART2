@@ -3,7 +3,8 @@
 #include <string>
 #include <limits>
 
-using namespace std;
+//using namespace std;
+using std::cout;
 
 int main()
 {
